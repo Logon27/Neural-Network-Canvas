@@ -6,6 +6,6 @@ This program is written in java and utilizes the Processing 3 Sketchbook softwar
 
 ## Canvas Demo
 
-![Neural Network Canvas Demo](https://imgur.com/a/jVm0Ccj.gif)
+![Neural Network Canvas Demo](https://i.imgur.com/R1RyVl4.gif)
 
 Code Coming Soon...
